@@ -1,0 +1,2 @@
+# Fraudulent_Firm_Detection
+The objective of this project is to help an audit firm detect possible frauds using various ML models using Python.Initially I have preprocessed the audit data to know the dimensions and datatypes,upon which I perform feature selection to opt for significant variables.I run the regression and classifction models with and without PCA,to choose the best model to predict the risk. 
